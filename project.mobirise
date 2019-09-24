@@ -652,7 +652,7 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "columns": "4",
             "bgImageRadio": false,

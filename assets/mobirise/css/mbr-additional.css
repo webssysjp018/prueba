@@ -547,14 +547,17 @@ section.form .container {
 #msg-box8-1v .mbr-section-title SPAN {
   font-size: 25px;
 }
-#content5-23 .mbr-section-title,
-#content5-23 p {
-  color: #fff;
+#msg-box5-d H3 {
+  text-align: left;
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
 }
-#content5-23 .mbr-section-title {
-  color: #2e2828;
-  text-align: center;
-  font-size: 20px;
+#msg-box5-d P {
+  text-align: left;
+  color: #060505;
+}
+#msg-box5-d .btn {
+  font-size: 12px;
 }
 #header3-5 .mbr-section-title,
 #header3-5 .mbr-section-subtitle {
@@ -573,24 +576,18 @@ section.form .container {
 #features3-4 H4 {
   font-size: 22px;
 }
-#msg-box5-24 P {
-  text-align: left;
+#features4-2b .card-subtitle {
+  color: #bcbcbc;
 }
-#msg-box5-24 H3 {
-  text-align: left;
-  font-size: 20px;
+#features4-2b .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
 }
-#msg-box5-d H3 {
-  text-align: left;
-  font-size: 24px;
-  font-family: 'Roboto', sans-serif;
+#features4-2b H4 {
+  font-size: 17px;
 }
-#msg-box5-d P {
-  text-align: left;
-  color: #060505;
-}
-#msg-box5-d .btn {
-  font-size: 12px;
+#features4-2b P {
+  font-size: 15px;
 }
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {

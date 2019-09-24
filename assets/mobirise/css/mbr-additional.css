@@ -576,6 +576,13 @@ section.form .container {
 #msg-box5-d .btn {
   font-size: 12px;
 }
+#msg-box5-24 P {
+  text-align: left;
+}
+#msg-box5-24 H3 {
+  text-align: left;
+  font-size: 25px;
+}
 #header3-u .mbr-section-title,
 #header3-u .mbr-section-subtitle {
   text-align: center;
@@ -584,10 +591,14 @@ section.form .container {
   text-align: left;
   font-size: 36px;
 }
-#features3-t P {
-  text-align: left;
-  color: #6c6969;
-  font-size: 15px;
+#content5-23 .mbr-section-title,
+#content5-23 p {
+  color: #fff;
+}
+#content5-23 .mbr-section-title {
+  color: #2e2828;
+  text-align: center;
+  font-size: 30px;
 }
 #contacts2-1w DIV {
   color: #0d0b0b;

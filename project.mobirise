@@ -201,7 +201,7 @@
             "autoplay": true,
             "fullScreen": false,
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "2",
             "showBullets": true,
             "bgColor": "#ffffff",
             "timeout": "5",
@@ -277,8 +277,8 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": "52",
-            "paddingTop": "2",
+            "imageSize": "60",
+            "paddingTop": "3",
             "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-1415x630.jpg",
@@ -349,9 +349,9 @@
           },
           "_params": {
             "showMeta": true,
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "0",
-            "bgColor": "#f4f4f4"
+            "bgColor": "#ffffff"
           },
           "title": "CARRERAS PROFESIONALES",
           "meta": "<br><br>",
@@ -368,8 +368,8 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": true,
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "2",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -506,8 +506,8 @@
             "ShowTexts": true,
             "showButtons": false,
             "iconsBgColor": "#f2f2f2",
-            "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingTop": "4",
+            "paddingBottom": "3",
             "columns": 3,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -633,9 +633,9 @@
           },
           "_params": {
             "showMeta": false,
-            "paddingTop": "1",
+            "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#f4f4f4"
+            "bgColor": "#ffffff"
           },
           "title": "GALERIA DE FOTOS",
           "meta": "",
@@ -652,8 +652,8 @@
             "showSubtitles": false,
             "ShowTexts": false,
             "showButtons": false,
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "3",
             "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -760,8 +760,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -809,7 +809,7 @@
           },
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
@@ -1095,8 +1095,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,

@@ -101,7 +101,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
+              "color": "@primaryColor!important"
             },
             "A": {
               "font-size": "9px",
@@ -531,7 +531,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "black"
+              "color": "#00a885"
             }
           },
           "media2": {
@@ -543,7 +543,7 @@
               "active": true,
               "link": null,
               "size": 0,
-              "color": "black",
+              "color": "#00a885",
               "newWindow": false
             }
           },
@@ -556,7 +556,7 @@
               "active": true,
               "link": "",
               "size": 0,
-              "color": "black"
+              "color": "#00a885"
             }
           },
           "media4": {
@@ -638,7 +638,7 @@
             "paddingBottom": "1",
             "bgColor": "#ffffff"
           },
-          "title": "GALERIA DE FOTOS",
+          "title": "GALERIA",
           "meta": "",
           "_tags": [
             "Tema"
@@ -682,7 +682,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/56894342-286558962263959-8128487720944140288-n-600x338.jpg",
+              "src": "@PROJECT_PATH@/assets/images/inst-600x345.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -693,7 +693,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inst-600x345.png",
+              "src": "@PROJECT_PATH@/assets/images/56894342-286558962263959-8128487720944140288-n-600x338.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
